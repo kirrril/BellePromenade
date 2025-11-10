@@ -1,0 +1,6630 @@
+fileFormatVersion: 2
+guid: d58c27f0108d0114286556a72f68611e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1659777847458456892
+    second: scaleFuel_0
+  - first:
+      213: -521791977754385421
+    second: scaleFuel_1
+  - first:
+      213: 8762360766801052942
+    second: scaleFuel_2
+  - first:
+      213: 693743130155061511
+    second: scaleFuel_3
+  - first:
+      213: -1590621886067748153
+    second: scaleFuel_4
+  - first:
+      213: -1006080166684962884
+    second: scaleFuel_5
+  - first:
+      213: -6339024885030752983
+    second: scaleFuel_6
+  - first:
+      213: 1437984083958338376
+    second: scaleFuel_7
+  - first:
+      213: -8951667017880741647
+    second: scaleFuel_8
+  - first:
+      213: 5358142624507214843
+    second: scaleFuel_9
+  - first:
+      213: 843387846983000999
+    second: scaleFuel_10
+  - first:
+      213: 1817229376468268278
+    second: scaleFuel_11
+  - first:
+      213: -585929437133794243
+    second: scaleFuel_12
+  - first:
+      213: -7268213681483452486
+    second: scaleFuel_13
+  - first:
+      213: -3006033889178713574
+    second: scaleFuel_14
+  - first:
+      213: 7204534274358131944
+    second: scaleFuel_15
+  - first:
+      213: -2451154761094803220
+    second: scaleFuel_16
+  - first:
+      213: 905421060756103562
+    second: scaleFuel_17
+  - first:
+      213: -3300191010437951593
+    second: scaleFuel_18
+  - first:
+      213: 3163147055392782078
+    second: scaleFuel_19
+  - first:
+      213: -865628497140484679
+    second: scaleFuel_20
+  - first:
+      213: -3732939407298349991
+    second: scaleFuel_21
+  - first:
+      213: 1445181873621167573
+    second: scaleFuel_22
+  - first:
+      213: -3607763333570204887
+    second: scaleFuel_23
+  - first:
+      213: 7148714514812312237
+    second: scaleFuel_24
+  - first:
+      213: 1197604742053126220
+    second: scaleFuel_25
+  - first:
+      213: -3613691103162912401
+    second: scaleFuel_26
+  - first:
+      213: 1010528701230069523
+    second: scaleFuel_27
+  - first:
+      213: -6260238911755458261
+    second: scaleFuel_28
+  - first:
+      213: -1788475609603731723
+    second: scaleFuel_29
+  - first:
+      213: -6474465110839566683
+    second: scaleFuel_30
+  - first:
+      213: 6187336053655190623
+    second: scaleFuel_31
+  - first:
+      213: -2806885597397332221
+    second: scaleFuel_32
+  - first:
+      213: -3106522262843144620
+    second: scaleFuel_33
+  - first:
+      213: -3610208073571511542
+    second: scaleFuel_34
+  - first:
+      213: -1031634686379355407
+    second: scaleFuel_35
+  - first:
+      213: 4047079836436225707
+    second: scaleFuel_36
+  - first:
+      213: -5808942169505579212
+    second: scaleFuel_37
+  - first:
+      213: -7328401705814711910
+    second: scaleFuel_38
+  - first:
+      213: -7872640010797542568
+    second: scaleFuel_39
+  - first:
+      213: 8513116765791571316
+    second: scaleFuel_40
+  - first:
+      213: 7551871861480009157
+    second: scaleFuel_41
+  - first:
+      213: 580485342173030104
+    second: scaleFuel_42
+  - first:
+      213: -2093583116754516263
+    second: scaleFuel_43
+  - first:
+      213: 5541851848099012836
+    second: scaleFuel_44
+  - first:
+      213: 1434119919598334849
+    second: scaleFuel_45
+  - first:
+      213: 408749479454958584
+    second: scaleFuel_46
+  - first:
+      213: 3923165979367447425
+    second: scaleFuel_47
+  - first:
+      213: -3422845708491454207
+    second: scaleFuel_48
+  - first:
+      213: 1672694406077062419
+    second: scaleFuel_49
+  - first:
+      213: 6330392495708726895
+    second: scaleFuel_50
+  - first:
+      213: 4997849451900579536
+    second: scaleFuel_51
+  - first:
+      213: 5593765409826613709
+    second: scaleFuel_52
+  - first:
+      213: 7674250251602377452
+    second: scaleFuel_53
+  - first:
+      213: -855335060388881338
+    second: scaleFuel_54
+  - first:
+      213: 8693435896339473925
+    second: scaleFuel_55
+  - first:
+      213: -1504642251387098967
+    second: scaleFuel_56
+  - first:
+      213: -7355689979050683406
+    second: scaleFuel_57
+  - first:
+      213: 8072690669655132289
+    second: scaleFuel_58
+  - first:
+      213: -2965068184150539800
+    second: scaleFuel_59
+  - first:
+      213: 7253534951609436264
+    second: scaleFuel_60
+  - first:
+      213: 5177153335503450264
+    second: scaleFuel_61
+  - first:
+      213: -8918960090301546876
+    second: scaleFuel_62
+  - first:
+      213: 95904863397923608
+    second: scaleFuel_63
+  - first:
+      213: -3221159601249748456
+    second: scaleFuel_64
+  - first:
+      213: -4620480456138638796
+    second: scaleFuel_65
+  - first:
+      213: -5704382144768533867
+    second: scaleFuel_66
+  - first:
+      213: 7520442118228306090
+    second: scaleFuel_67
+  - first:
+      213: 7834070533633963361
+    second: scaleFuel_68
+  - first:
+      213: -8561839163781837375
+    second: scaleFuel_69
+  - first:
+      213: -6061511017153054555
+    second: scaleFuel_70
+  - first:
+      213: 5783229939511903642
+    second: scaleFuel_71
+  - first:
+      213: -1750571872250503298
+    second: scaleFuel_72
+  - first:
+      213: -849332597163271428
+    second: scaleFuel_73
+  - first:
+      213: -6055770474853271651
+    second: scaleFuel_74
+  - first:
+      213: -7737009783378712862
+    second: scaleFuel_75
+  - first:
+      213: -3618343793771203218
+    second: scaleFuel_76
+  - first:
+      213: 5240883470860216831
+    second: scaleFuel_77
+  - first:
+      213: 4341551730773260692
+    second: scaleFuel_78
+  - first:
+      213: 4282099708734682438
+    second: scaleFuel_79
+  - first:
+      213: 1917002269123519032
+    second: scaleFuel_80
+  - first:
+      213: 2540724618674462947
+    second: scaleFuel_81
+  - first:
+      213: 8147712576313310755
+    second: scaleFuel_82
+  - first:
+      213: -7324116900390356505
+    second: scaleFuel_83
+  - first:
+      213: -3189700400081738389
+    second: scaleFuel_84
+  - first:
+      213: -7523289671797842864
+    second: scaleFuel_85
+  - first:
+      213: 1318691220990984715
+    second: scaleFuel_86
+  - first:
+      213: 1454373577642633835
+    second: scaleFuel_87
+  - first:
+      213: 7860579017696263981
+    second: scaleFuel_88
+  - first:
+      213: 4907224793444596440
+    second: scaleFuel_89
+  - first:
+      213: 216272065573085917
+    second: scaleFuel_90
+  - first:
+      213: -6202094967635212343
+    second: scaleFuel_91
+  - first:
+      213: -1278424933049655470
+    second: scaleFuel_92
+  - first:
+      213: 6086108375645781072
+    second: scaleFuel_93
+  - first:
+      213: -6502416105362364567
+    second: scaleFuel_94
+  - first:
+      213: -7896747651167461901
+    second: scaleFuel_95
+  - first:
+      213: 1945915821986996879
+    second: scaleFuel_96
+  - first:
+      213: 7188673974479309218
+    second: scaleFuel_97
+  - first:
+      213: 1957730736021383844
+    second: scaleFuel_98
+  - first:
+      213: -6211980577810425898
+    second: scaleFuel_99
+  - first:
+      213: 863950856629829235
+    second: scaleFuel_100
+  - first:
+      213: -1450362447232053626
+    second: scaleFuel_101
+  - first:
+      213: 259747547373221254
+    second: scaleFuel_102
+  - first:
+      213: -217463751733158997
+    second: scaleFuel_103
+  - first:
+      213: 3045769339796517924
+    second: scaleFuel_104
+  - first:
+      213: -2158386618054094614
+    second: scaleFuel_105
+  - first:
+      213: -2081369418224592156
+    second: scaleFuel_106
+  - first:
+      213: 131458227271653390
+    second: scaleFuel_107
+  - first:
+      213: 2211925738933375076
+    second: scaleFuel_108
+  - first:
+      213: -5935693336560336849
+    second: scaleFuel_109
+  - first:
+      213: -2592607416732806079
+    second: scaleFuel_110
+  - first:
+      213: -7141402136308949620
+    second: scaleFuel_111
+  - first:
+      213: 5538188577818465799
+    second: scaleFuel_112
+  - first:
+      213: 1705579408938238725
+    second: scaleFuel_113
+  - first:
+      213: 6780961704077555827
+    second: scaleFuel_114
+  - first:
+      213: 2800623457308882512
+    second: scaleFuel_115
+  - first:
+      213: 1505960789937663382
+    second: scaleFuel_116
+  - first:
+      213: 2536243918909000134
+    second: scaleFuel_117
+  - first:
+      213: 1616866039088797163
+    second: scaleFuel_118
+  - first:
+      213: 5179769219991134393
+    second: scaleFuel_119
+  - first:
+      213: -1414840491645176042
+    second: scaleFuel_120
+  - first:
+      213: 5355322192543331308
+    second: scaleFuel_121
+  - first:
+      213: 7005566435833477494
+    second: scaleFuel_122
+  - first:
+      213: -8941860048732225111
+    second: scaleFuel_123
+  - first:
+      213: 530748050689122852
+    second: scaleFuel_124
+  - first:
+      213: 6455713863412739470
+    second: scaleFuel_125
+  - first:
+      213: -1894434904098944135
+    second: scaleFuel_126
+  - first:
+      213: 4811486655365487367
+    second: scaleFuel_127
+  - first:
+      213: -2190362369117519365
+    second: scaleFuel_128
+  - first:
+      213: -6210511764843571255
+    second: scaleFuel_129
+  - first:
+      213: -3239805848039516011
+    second: scaleFuel_130
+  - first:
+      213: 4719608600469739364
+    second: scaleFuel_131
+  - first:
+      213: 349705229634187972
+    second: scaleFuel_132
+  - first:
+      213: 1672531372153033111
+    second: scaleFuel_133
+  - first:
+      213: 1511092130960279568
+    second: scaleFuel_134
+  - first:
+      213: -1318880685156763185
+    second: scaleFuel_135
+  - first:
+      213: -6217809816096542137
+    second: scaleFuel_136
+  - first:
+      213: -1974636563656221932
+    second: scaleFuel_137
+  - first:
+      213: -5574204743354094114
+    second: scaleFuel_138
+  - first:
+      213: 7269632535760663580
+    second: scaleFuel_139
+  - first:
+      213: 8416006511096941990
+    second: scaleFuel_140
+  - first:
+      213: 2575332866522531402
+    second: scaleFuel_141
+  - first:
+      213: -6228633204106386533
+    second: scaleFuel_142
+  - first:
+      213: 8507975538235295147
+    second: scaleFuel_143
+  - first:
+      213: 2864563841016943432
+    second: scaleFuel_144
+  - first:
+      213: -5436343045794005883
+    second: scaleFuel_145
+  - first:
+      213: -762116343990909257
+    second: scaleFuel_146
+  - first:
+      213: -7650597584036164107
+    second: scaleFuel_147
+  - first:
+      213: 8360396691976779127
+    second: scaleFuel_148
+  - first:
+      213: 1224933037301049119
+    second: scaleFuel_149
+  - first:
+      213: -210394500160369208
+    second: scaleFuel_150
+  - first:
+      213: 9102217220152388956
+    second: scaleFuel_151
+  - first:
+      213: 5828834126279141819
+    second: scaleFuel_152
+  - first:
+      213: 5018368514098650498
+    second: scaleFuel_153
+  - first:
+      213: 8064175326351770082
+    second: scaleFuel_154
+  - first:
+      213: -2999944152886265065
+    second: scaleFuel_155
+  - first:
+      213: 6460565811357978836
+    second: scaleFuel_156
+  - first:
+      213: -1546189037640869603
+    second: scaleFuel_157
+  - first:
+      213: -3588589424625250739
+    second: scaleFuel_158
+  - first:
+      213: 4277113826651163529
+    second: scaleFuel_159
+  - first:
+      213: 1142898987824777274
+    second: scaleFuel_160
+  - first:
+      213: -1400019377131244213
+    second: scaleFuel_161
+  - first:
+      213: -6729909701613486783
+    second: scaleFuel_162
+  - first:
+      213: -5854753819561166571
+    second: scaleFuel_163
+  - first:
+      213: 4780490115809309276
+    second: scaleFuel_164
+  - first:
+      213: 2426468852948312923
+    second: scaleFuel_165
+  - first:
+      213: -9173041618314790696
+    second: scaleFuel_166
+  - first:
+      213: 7096795668135228748
+    second: scaleFuel_167
+  - first:
+      213: -5561330924179605501
+    second: scaleFuel_168
+  - first:
+      213: -5118818111615198400
+    second: scaleFuel_169
+  - first:
+      213: 7599529194440193348
+    second: scaleFuel_170
+  - first:
+      213: -8236128113176640691
+    second: scaleFuel_171
+  - first:
+      213: 3866251126669648779
+    second: scaleFuel_172
+  - first:
+      213: -6164335125030306625
+    second: scaleFuel_173
+  - first:
+      213: 7061603657428748813
+    second: scaleFuel_174
+  - first:
+      213: 1628041783276658725
+    second: scaleFuel_175
+  - first:
+      213: -949376395761445742
+    second: scaleFuel_176
+  - first:
+      213: -6653080967791353608
+    second: scaleFuel_177
+  - first:
+      213: 5907250792511028667
+    second: scaleFuel_178
+  - first:
+      213: -210248026124512350
+    second: scaleFuel_179
+  - first:
+      213: -5891625015570334720
+    second: scaleFuel_180
+  - first:
+      213: -2530336650716717454
+    second: scaleFuel_181
+  - first:
+      213: -1603484502376640097
+    second: scaleFuel_182
+  - first:
+      213: -3120889816749399575
+    second: scaleFuel_183
+  - first:
+      213: 2589232397356058226
+    second: scaleFuel_184
+  - first:
+      213: -723160738677429516
+    second: scaleFuel_185
+  - first:
+      213: -5152345944220770098
+    second: scaleFuel_186
+  - first:
+      213: 8501966576710360941
+    second: scaleFuel_187
+  - first:
+      213: 7027168349028485401
+    second: scaleFuel_188
+  - first:
+      213: 7975942535177091776
+    second: scaleFuel_189
+  - first:
+      213: -2497174935093300967
+    second: scaleFuel_190
+  - first:
+      213: 2199214642914678439
+    second: scaleFuel_191
+  - first:
+      213: -1994719506041619433
+    second: scaleFuel_192
+  - first:
+      213: 3509954058006510200
+    second: scaleFuel_193
+  - first:
+      213: -771485993354717638
+    second: scaleFuel_194
+  - first:
+      213: -984555784649548904
+    second: scaleFuel_195
+  - first:
+      213: -67022227665190697
+    second: scaleFuel_196
+  - first:
+      213: -1178748672364632442
+    second: scaleFuel_197
+  - first:
+      213: 7886399032011834123
+    second: scaleFuel_198
+  - first:
+      213: -2988118101717918596
+    second: scaleFuel_199
+  - first:
+      213: -1439281997046431974
+    second: scaleFuel_200
+  - first:
+      213: 1069244288675360735
+    second: scaleFuel_201
+  - first:
+      213: -8894043821111063562
+    second: scaleFuel_202
+  - first:
+      213: -1773113492584974023
+    second: scaleFuel_203
+  - first:
+      213: 2569488748584360900
+    second: scaleFuel_204
+  - first:
+      213: 7556181624847789688
+    second: scaleFuel_205
+  - first:
+      213: 8819511839026868339
+    second: scaleFuel_206
+  - first:
+      213: -3141730242511104508
+    second: scaleFuel_207
+  - first:
+      213: 2410567897804598068
+    second: scaleFuel_208
+  - first:
+      213: -5713052413567718957
+    second: scaleFuel_209
+  - first:
+      213: -5047056958347491589
+    second: scaleFuel_210
+  - first:
+      213: 3763582469766304871
+    second: scaleFuel_211
+  - first:
+      213: -1378113463280162700
+    second: scaleFuel_212
+  - first:
+      213: -2188372088117095572
+    second: scaleFuel_213
+  - first:
+      213: 6933663960357907187
+    second: scaleFuel_214
+  - first:
+      213: 2554306008995743177
+    second: scaleFuel_215
+  - first:
+      213: 5092700641436550903
+    second: scaleFuel_216
+  - first:
+      213: -1004720659062239581
+    second: scaleFuel_217
+  - first:
+      213: -4404621675880356357
+    second: scaleFuel_218
+  - first:
+      213: -3277327994092292068
+    second: scaleFuel_219
+  - first:
+      213: 2922044557399934962
+    second: scaleFuel_220
+  - first:
+      213: -7161629414175553062
+    second: scaleFuel_221
+  - first:
+      213: -8996764454865827567
+    second: scaleFuel_222
+  - first:
+      213: 8457612410330720994
+    second: scaleFuel_223
+  - first:
+      213: -5078958718664856584
+    second: scaleFuel_224
+  - first:
+      213: -4234815316234666913
+    second: scaleFuel_225
+  - first:
+      213: 9139403142907309238
+    second: scaleFuel_226
+  - first:
+      213: 2194261421289460972
+    second: scaleFuel_227
+  - first:
+      213: -8514090603817468599
+    second: scaleFuel_228
+  - first:
+      213: -5178305564085479039
+    second: scaleFuel_229
+  - first:
+      213: -3786696954854586878
+    second: scaleFuel_230
+  - first:
+      213: 7735203176006263762
+    second: scaleFuel_231
+  - first:
+      213: -4549742878633402612
+    second: scaleFuel_232
+  - first:
+      213: -1607863053039877140
+    second: scaleFuel_233
+  - first:
+      213: 8546012107643641219
+    second: scaleFuel_234
+  - first:
+      213: 796100931133804329
+    second: scaleFuel_235
+  - first:
+      213: 6310869750199627697
+    second: scaleFuel_236
+  - first:
+      213: -4593232336599279834
+    second: scaleFuel_237
+  - first:
+      213: 5853106591242142728
+    second: scaleFuel_238
+  - first:
+      213: 8458715822247077250
+    second: scaleFuel_239
+  - first:
+      213: 7037732847813052699
+    second: scaleFuel_240
+  - first:
+      213: -4664880329061096258
+    second: scaleFuel_241
+  - first:
+      213: -6936495899827185056
+    second: scaleFuel_242
+  - first:
+      213: 2687795320638281107
+    second: scaleFuel_243
+  - first:
+      213: 5643333117601019165
+    second: scaleFuel_244
+  - first:
+      213: -6922010884366476908
+    second: scaleFuel_245
+  - first:
+      213: -5878439823113952457
+    second: scaleFuel_246
+  - first:
+      213: -1922640728337385456
+    second: scaleFuel_247
+  - first:
+      213: 228514801125305373
+    second: scaleFuel_248
+  - first:
+      213: 6254957516332830624
+    second: scaleFuel_249
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: scaleFuel_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1453
+        width: 78
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35e2db8827b80710800000000000000
+      internalID: 1659777847458456892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_1
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1496
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f32d47f5f832c8f0800000000000000
+      internalID: -521791977754385421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_2
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1527
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e050ff241b82a9970800000000000000
+      internalID: 8762360766801052942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_3
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1496
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701924683bba0a900800000000000000
+      internalID: 693743130155061511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_4
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1496
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c258f472d9fce9e0800000000000000
+      internalID: -1590621886067748153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_5
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1527
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf4d293b6fa902f0800000000000000
+      internalID: -1006080166684962884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_6
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1496
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d6161e3724708a0800000000000000
+      internalID: -6339024885030752983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_7
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1455
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8439005d7eeb4f310800000000000000
+      internalID: 1437984083958338376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_8
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1455
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f853a3764a45c380800000000000000
+      internalID: -8951667017880741647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_9
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1455
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbb1ad0452fb5a40800000000000000
+      internalID: 5358142624507214843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_10
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1455
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3ad4347c054bb00800000000000000
+      internalID: 843387846983000999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_11
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1455
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4bbc36d78183910800000000000000
+      internalID: 1817229376468268278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_12
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1455
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d341234084c5ed7f0800000000000000
+      internalID: -585929437133794243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_13
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1455
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf6b835a2e122b90800000000000000
+      internalID: -7268213681483452486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_14
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1455
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1287bcba1c6846d0800000000000000
+      internalID: -3006033889178713574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_15
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1455
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec3e3350c5abf360800000000000000
+      internalID: 7204534274358131944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_16
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1455
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0df674bbfbbfdd0800000000000000
+      internalID: -2451154761094803220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_17
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1458
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81668a58a3b09c00800000000000000
+      internalID: 905421060756103562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_18
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1489
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f88ebd2cd5332d0800000000000000
+      internalID: -3300191010437951593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_19
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1458
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef67201ec71c5eb20800000000000000
+      internalID: 3163147055392782078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_20
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1458
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b57c78d77bacf3f0800000000000000
+      internalID: -865628497140484679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_21
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1489
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954bce3136fe13cc0800000000000000
+      internalID: -3732939407298349991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_22
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1458
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dde505d1415e0410800000000000000
+      internalID: 1445181873621167573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_23
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1450
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b6ed4ec56aeedc0800000000000000
+      internalID: -3607763333570204887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_24
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1450
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa1118c9f5553360800000000000000
+      internalID: 7148714514812312237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1306
+        width: 78
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40666fea2fbe9010800000000000000
+      internalID: 1197604742053126220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_26
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1349
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f613cfb761799ddc0800000000000000
+      internalID: -3613691103162912401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_27
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1381
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317b720ff7e160e00800000000000000
+      internalID: 1010528701230069523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_28
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1349
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29ecbfb0e92f19a0800000000000000
+      internalID: -6260238911755458261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_29
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1349
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe8e18a8ee0e27e0800000000000000
+      internalID: -1788475609603731723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_30
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1381
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae5fbde8441626a0800000000000000
+      internalID: -6474465110839566683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_31
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1349
+        width: 11
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5cb510eb55ddd550800000000000000
+      internalID: 6187336053655190623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_32
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1309
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30fc8f1bb60fb09d0800000000000000
+      internalID: -2806885597397332221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_33
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1309
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4564464067a63e4d0800000000000000
+      internalID: -3106522262843144620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_34
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1309
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03d58182e6f5edc0800000000000000
+      internalID: -3610208073571511542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_35
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1309
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f21364f7b5eea1f0800000000000000
+      internalID: -1031634686379355407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_36
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1309
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae5d6c3bad1a2830800000000000000
+      internalID: 4047079836436225707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_37
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1309
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f35d9bfdd726fa0800000000000000
+      internalID: -5808942169505579212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_38
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1309
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a912c81e9794c4a90800000000000000
+      internalID: -7328401705814711910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_39
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1309
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85392e70f93ceb290800000000000000
+      internalID: -7872640010797542568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_40
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1309
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47dcd64189aa42670800000000000000
+      internalID: 8513116765791571316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_41
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1309
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cda8cc4273adc860800000000000000
+      internalID: 7551871861480009157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_42
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1311
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d66b89d75c4e0800800000000000000
+      internalID: 580485342173030104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_43
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1342
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d687126f3912f2e0800000000000000
+      internalID: -2093583116754516263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_44
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1311
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0a8c3d4ec98ec40800000000000000
+      internalID: 5541851848099012836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_45
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1311
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18378f4f77407e310800000000000000
+      internalID: 1434119919598334849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_46
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1342
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3e9056c7b2ca500800000000000000
+      internalID: 408749479454958584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_47
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1311
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b18132ca2e17630800000000000000
+      internalID: 3923165979367447425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_48
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1304
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109856096fb9f70d0800000000000000
+      internalID: -3422845708491454207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_49
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1304
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d910433ba963710800000000000000
+      internalID: 1672694406077062419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1150
+        width: 78
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66648b5f621ad750800000000000000
+      internalID: 6330392495708726895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_51
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1193
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de2a65c89deb5540800000000000000
+      internalID: 4997849451900579536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_52
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1224
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc92591d00c01ad40800000000000000
+      internalID: 5593765409826613709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_53
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1193
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea3634a1f9608a60800000000000000
+      internalID: 7674250251602377452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_54
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1193
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c55995b4d3124f0800000000000000
+      internalID: -855335060388881338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_55
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1224
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506a1fe43e945a870800000000000000
+      internalID: 8693435896339473925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_56
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1193
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8270428df6e1be0800000000000000
+      internalID: -1504642251387098967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_57
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1152
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f398c8afe65be990800000000000000
+      internalID: -7355689979050683406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_58
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1152
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1888762a465f70070800000000000000
+      internalID: 8072690669655132289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_59
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1152
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e105e43236f9d6d0800000000000000
+      internalID: -2965068184150539800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_60
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1152
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8688f8c8b9bb9a460800000000000000
+      internalID: 7253534951609436264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_61
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1152
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89079666781f8d740800000000000000
+      internalID: 5177153335503450264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_62
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1152
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48eb0b37d0d793480800000000000000
+      internalID: -8918960090301546876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_63
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1152
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81bc01317f8b45100800000000000000
+      internalID: 95904863397923608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_64
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1152
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a7baab8642c43d0800000000000000
+      internalID: -3221159601249748456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_65
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1152
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ab8386181c0efb0800000000000000
+      internalID: -4620480456138638796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_66
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1152
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a9df599a6f5d0b0800000000000000
+      internalID: -5704382144768533867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_67
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1155
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa862e2f24afd5860800000000000000
+      internalID: 7520442118228306090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_68
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1186
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1657b96c4a538bc60800000000000000
+      internalID: 7834070533633963361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_69
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1155
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd81c2a4ac3e2980800000000000000
+      internalID: -8561839163781837375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_70
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1155
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8b97c58df21eba0800000000000000
+      internalID: -6061511017153054555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_71
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1186
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95c2073df8224050800000000000000
+      internalID: 5783229939511903642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_72
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1155
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fd7b83828b4b7e0800000000000000
+      internalID: -1750571872250503298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_73
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1147
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa5ce9b0809634f0800000000000000
+      internalID: -849332597163271428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_74
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1147
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97721586d495fba0800000000000000
+      internalID: -6055770474853271651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 985
+        width: 78
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e66dfd289e90a490800000000000000
+      internalID: -7737009783378712862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_76
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1028
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6537098d7f09cdc0800000000000000
+      internalID: -3618343793771203218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_77
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1059
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9e6d5dfbb5bb840800000000000000
+      internalID: 5240883470860216831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_78
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1028
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499f8beeb4a404c30800000000000000
+      internalID: 4341551730773260692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_79
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1028
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6453fef5ff21d6b30800000000000000
+      internalID: 4282099708734682438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_80
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1059
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832a9b4386f8a9a10800000000000000
+      internalID: 1917002269123519032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_81
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1028
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e06e205497724320800000000000000
+      internalID: 2540724618674462947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_82
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 987
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e33237b6d721170800000000000000
+      internalID: 8147712576313310755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_83
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 987
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e93cc2eb728b5a90800000000000000
+      internalID: -7324116900390356505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_84
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 987
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65e439c268ebb3d0800000000000000
+      internalID: -3189700400081738389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_85
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 987
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05cdf1257e7e79790800000000000000
+      internalID: -7523289671797842864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_86
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 987
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b020893cdaeec4210800000000000000
+      internalID: 1318691220990984715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_87
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 987
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a6a123019fe2410800000000000000
+      internalID: 1454373577642633835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_88
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 987
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fbcae28f2661d60800000000000000
+      internalID: 7860579017696263981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_89
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 987
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da314633f6f91440800000000000000
+      internalID: 4907224793444596440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_90
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 987
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2e25b3c4a500300800000000000000
+      internalID: 216272065573085917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_91
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 987
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c78ddeac7bbde9a0800000000000000
+      internalID: -6202094967635212343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_92
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 989
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f9299fb4f124ee0800000000000000
+      internalID: -1278424933049655470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_93
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1021
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c75e27253367450800000000000000
+      internalID: 6086108375645781072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_94
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 989
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967e812e007c2c5a0800000000000000
+      internalID: -6502416105362364567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_95
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 989
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd534b99dd196290800000000000000
+      internalID: -7896747651167461901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_96
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1021
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82e8545128410b10800000000000000
+      internalID: 1945915821986996879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_97
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 989
+        width: 11
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a94fee74ec43c360800000000000000
+      internalID: 7188673974479309218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_98
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 982
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa2b6e5bb14b2b10800000000000000
+      internalID: 1957730736021383844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_99
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 982
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7dbf3b39c9ac9a0800000000000000
+      internalID: -6211980577810425898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 824
+        width: 78
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37eb0d80abe5dfb00800000000000000
+      internalID: 863950856629829235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_101
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 867
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68eca21e9074fdbe0800000000000000
+      internalID: -1450362447232053626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_102
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 898
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685b574a40fca9300800000000000000
+      internalID: 259747547373221254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_103
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 867
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babdb66bed96bfcf0800000000000000
+      internalID: -217463751733158997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_104
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 867
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424f85ec31fb44a20800000000000000
+      internalID: 3045769339796517924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_105
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 898
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0dde67ecedb02e0800000000000000
+      internalID: -2158386618054094614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_106
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 867
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea9c5caa8d7d13e0800000000000000
+      internalID: -2081369418224592156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_107
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 826
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08545baf8803d100800000000000000
+      internalID: 131458227271653390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_108
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 826
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460daa28db652be10800000000000000
+      internalID: 2211925738933375076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_109
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 826
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f200baaeb5e20ada0800000000000000
+      internalID: -5935693336560336849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_110
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 826
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144199b6a45350cd0800000000000000
+      internalID: -2592607416732806079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_111
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 826
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8dd6130894a4ec90800000000000000
+      internalID: -7141402136308949620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_112
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 826
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706deff3b299bdc40800000000000000
+      internalID: 5538188577818465799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_113
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 826
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5030cf59f6f6ba710800000000000000
+      internalID: 1705579408938238725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_114
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 826
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378f1172eb0da1e50800000000000000
+      internalID: 6780961704077555827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_115
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 826
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056b5823230ddd620800000000000000
+      internalID: 2800623457308882512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_116
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 826
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69da6e90c5f36e410800000000000000
+      internalID: 1505960789937663382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_117
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 829
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9c05a186c823320800000000000000
+      internalID: 2536243918909000134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_118
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 860
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5d7459813407610800000000000000
+      internalID: 1616866039088797163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_119
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 829
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0e21879ac32e740800000000000000
+      internalID: 5179769219991134393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_120
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 829
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61776a9a11a7d5ce0800000000000000
+      internalID: -1414840491645176042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_121
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 860
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3bf40192de15a40800000000000000
+      internalID: 5355322192543331308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_122
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 829
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679f04a6e85c83160800000000000000
+      internalID: 7005566435833477494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_123
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 821
+        width: 37
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a10f0469a128e380800000000000000
+      internalID: -8941860048732225111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_124
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 821
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4226e824a889d5700800000000000000
+      internalID: 530748050689122852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 667
+        width: 78
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8de7401e8d479950800000000000000
+      internalID: 6455713863412739470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_126
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 711
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bc41bed7d95b5e0800000000000000
+      internalID: -1894434904098944135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_127
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 742
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b9796ee95d5c240800000000000000
+      internalID: 4811486655365487367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_128
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 711
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf10e53c7054a91e0800000000000000
+      internalID: -2190362369117519365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_129
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 711
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c75d1f5474dfc9a0800000000000000
+      internalID: -6210511764843571255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_130
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 742
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5981f561fb5e903d0800000000000000
+      internalID: -3239805848039516011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_131
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 711
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46790ed340b6f7140800000000000000
+      internalID: 4719608600469739364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_132
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 670
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c23174bd076ad400800000000000000
+      internalID: 349705229634187972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_133
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 670
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791d0e8eb66063710800000000000000
+      internalID: 1672531372153033111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_134
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 670
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01886c8794a78f410800000000000000
+      internalID: 1511092130960279568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_135
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 670
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc97b1c210562bde0800000000000000
+      internalID: -1318880685156763185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_136
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 670
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742f0a66ae6e5b9a0800000000000000
+      internalID: -6217809816096542137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_137
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 670
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bd5c6e18ea894e0800000000000000
+      internalID: -1974636563656221932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_138
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 670
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edde41fb15274a2b0800000000000000
+      internalID: -5574204743354094114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_139
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 670
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14f2ad664ce2e460800000000000000
+      internalID: 7269632535760663580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_140
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 670
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6adce49f459abc470800000000000000
+      internalID: 8416006511096941990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_141
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 670
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46c67fe89b6db320800000000000000
+      internalID: 2575332866522531402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_142
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 672
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9329010a137f89a0800000000000000
+      internalID: -6228633204106386533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_143
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 703
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba54a32cca6621670800000000000000
+      internalID: 8507975538235295147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_144
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 672
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8435e34e2a9f0c720800000000000000
+      internalID: 2864563841016943432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_145
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 672
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c78468dca3e84b0800000000000000
+      internalID: -5436343045794005883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_146
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 703
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b607e6193b6c65f0800000000000000
+      internalID: -762116343990909257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_147
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 672
+        width: 11
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd001c280e93d590800000000000000
+      internalID: -7650597584036164107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_148
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 665
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77570aefe78160470800000000000000
+      internalID: 8360396691976779127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_149
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 665
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1728f18b16dff010800000000000000
+      internalID: 1224933037301049119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 508
+        width: 78
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdce3b1157841df0800000000000000
+      internalID: -210394500160369208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_151
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 552
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d60ab0652915e70800000000000000
+      internalID: 9102217220152388956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_152
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 583
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9ea8f51cd24e050800000000000000
+      internalID: 5828834126279141819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_153
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 552
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ddada3393d4a540800000000000000
+      internalID: 5018368514098650498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_154
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 552
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1caa5cbb4b9ef60800000000000000
+      internalID: 8064175326351770082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_155
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 583
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b3435ffae0e56d0800000000000000
+      internalID: -2999944152886265065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_156
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 552
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0960a306a88a950800000000000000
+      internalID: 6460565811357978836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_157
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 511
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1910d72345da8ae0800000000000000
+      internalID: -1546189037640869603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_158
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 511
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e0d747ee4c23ec0800000000000000
+      internalID: -3588589424625250739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_159
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 511
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b447d3d5c5b5b30800000000000000
+      internalID: 4277113826651163529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_160
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 511
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a380377f2946cdf00800000000000000
+      internalID: 1142898987824777274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_161
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 511
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45bd6b4bc1229ce0800000000000000
+      internalID: -1400019377131244213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_162
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 511
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d7fd078ce8a92a0800000000000000
+      internalID: -6729909701613486783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_163
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 511
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519f1b1cb6cbfbea0800000000000000
+      internalID: -5854753819561166571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_164
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 511
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c527415ae66b75240800000000000000
+      internalID: 4780490115809309276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_165
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 511
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53a886d09c8ca120800000000000000
+      internalID: 2426468852948312923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_166
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 511
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8f87ebf3fc2b080800000000000000
+      internalID: -9173041618314790696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_167
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 513
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c453bba4f02ec7260800000000000000
+      internalID: 7096795668135228748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_168
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 544
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30831e95dfe22d2b0800000000000000
+      internalID: -5561330924179605501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_169
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 513
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b17535c0e46f8b0800000000000000
+      internalID: -5118818111615198400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_170
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 513
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44571dec983f67960800000000000000
+      internalID: 7599529194440193348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_171
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 544
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d438f713e1563bd80800000000000000
+      internalID: -8236128113176640691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_172
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 513
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8329995aeea7a530800000000000000
+      internalID: 3866251126669648779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_173
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 506
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcfa142dd1e37aa0800000000000000
+      internalID: -6164335125030306625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_174
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 506
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ac3a9cc1bdff160800000000000000
+      internalID: 7061603657428748813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 351
+        width: 78
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520e2bb4067f79610800000000000000
+      internalID: 1628041783276658725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_176
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 394
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2949f74b23323d2f0800000000000000
+      internalID: -949376395761445742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_177
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 425
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f062ecfb128ba3a0800000000000000
+      internalID: -6653080967791353608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_178
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 394
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbdb3ce3c45caf150800000000000000
+      internalID: 5907250792511028667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_179
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 394
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a31f10c88c051df0800000000000000
+      internalID: -210248026124512350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_180
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 425
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00cff15734ebc3ea0800000000000000
+      internalID: -5891625015570334720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_181
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 394
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ed0e3f83072ecd0800000000000000
+      internalID: -2530336650716717454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_182
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 353
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f911ff837574fb9e0800000000000000
+      internalID: -1603484502376640097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_183
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 353
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1a4813f3f50b4d0800000000000000
+      internalID: -3120889816749399575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_184
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 353
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2764755a52dcee320800000000000000
+      internalID: 2589232397356058226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_185
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 353
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa6f9fb321d6f5f0800000000000000
+      internalID: -723160738677429516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_186
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 353
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0ebca79a03f78b0800000000000000
+      internalID: -5152345944220770098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_187
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 353
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f90116e8d0df570800000000000000
+      internalID: 8501966576710360941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_188
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 353
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91906b4c164858160800000000000000
+      internalID: 7027168349028485401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_189
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 353
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cab8263a7d30be60800000000000000
+      internalID: 7975942535177091776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_190
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 353
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91131cb80a0485dd0800000000000000
+      internalID: -2497174935093300967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_191
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 353
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a654c7d01e258e10800000000000000
+      internalID: 2199214642914678439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_192
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 355
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71cb8df7d255154e0800000000000000
+      internalID: -1994719506041619433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_193
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 387
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a3b658e9cd5b030800000000000000
+      internalID: 3509954058006510200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_194
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 355
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3617e893912b45f0800000000000000
+      internalID: -771485993354717638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_195
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 355
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b5862fab72652f0800000000000000
+      internalID: -984555784649548904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_196
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 387
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d006f793a3e11ff0800000000000000
+      internalID: -67022227665190697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_197
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 355
+        width: 11
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6862e38e35e34afe0800000000000000
+      internalID: -1178748672364632442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_198
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 348
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03cc0cb22e127d60800000000000000
+      internalID: 7886399032011834123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_199
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 348
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c50301b621886d0800000000000000
+      internalID: -2988118101717918596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 78
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1fbe6a36a4a60ce0800000000000000
+      internalID: -1439281997046431974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_201
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 218
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf2c94f308b6de00800000000000000
+      internalID: 1069244288675360735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_202
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 249
+        width: 37
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbcae17442029480800000000000000
+      internalID: -8894043821111063562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_203
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 218
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93935004ca2a467e0800000000000000
+      internalID: -1773113492584974023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_204
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 218
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbdbb13768a8a320800000000000000
+      internalID: 2569488748584360900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_205
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 249
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ee2674723fcd860800000000000000
+      internalID: 7556181624847789688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_206
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 218
+        width: 11
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3707c813a43356a70800000000000000
+      internalID: 8819511839026868339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_207
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 178
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40616037df45664d0800000000000000
+      internalID: -3141730242511104508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_208
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 178
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b6a973bbe047120800000000000000
+      internalID: 2410567897804598068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_209
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 178
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9ab12591927b0b0800000000000000
+      internalID: -5713052413567718957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_210
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 178
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6c884df6045f9b0800000000000000
+      internalID: -5047056958347491589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_211
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 178
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764de41e05eea3430800000000000000
+      internalID: 3763582469766304871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_212
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 178
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478a0015b15ffdce0800000000000000
+      internalID: -1378113463280162700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_213
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 178
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63966b2e2751a1e0800000000000000
+      internalID: -2188372088117095572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_214
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 178
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3faaf05c2a2593060800000000000000
+      internalID: 6933663960357907187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_215
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 178
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c546d928c7b27320800000000000000
+      internalID: 2554306008995743177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_216
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 178
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6ca384048eca640800000000000000
+      internalID: 5092700641436550903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_217
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 180
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae491242e38e02f0800000000000000
+      internalID: -1004720659062239581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_218
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 211
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf56a272ce3afd2c0800000000000000
+      internalID: -4404621675880356357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_219
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 180
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c187fabad879482d0800000000000000
+      internalID: -3277327994092292068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_220
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 180
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7cfa51b003d8820800000000000000
+      internalID: 2922044557399934962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_221
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 211
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9c313edf7cc9c90800000000000000
+      internalID: -7161629414175553062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_222
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 180
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1198cdb2562152380800000000000000
+      internalID: -8996764454865827567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_223
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 173
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eaa2b54da97f5570800000000000000
+      internalID: 8457612410330720994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_224
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 173
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fbab1174f9e389b0800000000000000
+      internalID: -5078958718664856584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_225
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 78
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5cf27a28e9ea35c0800000000000000
+      internalID: -4234815316234666913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_226
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 44
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc24106cbea5de70800000000000000
+      internalID: 9139403142907309238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_227
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 75
+        width: 37
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce45d401325937e10800000000000000
+      internalID: 2194261421289460972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_228
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 44
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94df7f594bfd7d980800000000000000
+      internalID: -8514090603817468599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_229
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 44
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189914a7686f228b0800000000000000
+      internalID: -5178305564085479039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_230
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 75
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206c6ddae23f27bc0800000000000000
+      internalID: -3786696954854586878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_231
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 44
+        width: 11
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3a3534e46f85b60800000000000000
+      internalID: 7735203176006263762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_232
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 4
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f51bb15f01cd0c0800000000000000
+      internalID: -4549742878633402612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_233
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 4
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce345147219bfa9e0800000000000000
+      internalID: -1607863053039877140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_234
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 4
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d5942bbb8899670800000000000000
+      internalID: 8546012107643641219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_235
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 4
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f869534915c0b00800000000000000
+      internalID: 796100931133804329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_236
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 4
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf2864f996b49750800000000000000
+      internalID: 6310869750199627697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_237
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 4
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627992e968f8140c0800000000000000
+      internalID: -4593232336599279834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_238
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 4
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8044c730f696a3150800000000000000
+      internalID: 5853106591242142728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_239
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 4
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28563016935636570800000000000000
+      internalID: 8458715822247077250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_240
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 4
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19cef1dcbc0ba160800000000000000
+      internalID: 7037732847813052699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_241
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 4
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb42b9a6e04034fb0800000000000000
+      internalID: -4664880329061096258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_242
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 6
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ad8d0fabd9cbf90800000000000000
+      internalID: -6936495899827185056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_243
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 37
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3951a938a97fc4520800000000000000
+      internalID: 2687795320638281107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_244
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 6
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d157ecf1295215e40800000000000000
+      internalID: 5643333117601019165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_245
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 6
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499d2f966c310ff90800000000000000
+      internalID: -6922010884366476908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_246
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 37
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73368cd40269b6ea0800000000000000
+      internalID: -5878439823113952457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_247
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 6
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01870c4b1786155e0800000000000000
+      internalID: -1922640728337385456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_248
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 0
+        width: 37
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c2efa3009db2300800000000000000
+      internalID: 228514801125305373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleFuel_249
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 0
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af8d2e88b21ec650800000000000000
+      internalID: 6254957516332830624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      scaleFuel_0: 1659777847458456892
+      scaleFuel_1: -521791977754385421
+      scaleFuel_10: 843387846983000999
+      scaleFuel_100: 863950856629829235
+      scaleFuel_101: -1450362447232053626
+      scaleFuel_102: 259747547373221254
+      scaleFuel_103: -217463751733158997
+      scaleFuel_104: 3045769339796517924
+      scaleFuel_105: -2158386618054094614
+      scaleFuel_106: -2081369418224592156
+      scaleFuel_107: 131458227271653390
+      scaleFuel_108: 2211925738933375076
+      scaleFuel_109: -5935693336560336849
+      scaleFuel_11: 1817229376468268278
+      scaleFuel_110: -2592607416732806079
+      scaleFuel_111: -7141402136308949620
+      scaleFuel_112: 5538188577818465799
+      scaleFuel_113: 1705579408938238725
+      scaleFuel_114: 6780961704077555827
+      scaleFuel_115: 2800623457308882512
+      scaleFuel_116: 1505960789937663382
+      scaleFuel_117: 2536243918909000134
+      scaleFuel_118: 1616866039088797163
+      scaleFuel_119: 5179769219991134393
+      scaleFuel_12: -585929437133794243
+      scaleFuel_120: -1414840491645176042
+      scaleFuel_121: 5355322192543331308
+      scaleFuel_122: 7005566435833477494
+      scaleFuel_123: -8941860048732225111
+      scaleFuel_124: 530748050689122852
+      scaleFuel_125: 6455713863412739470
+      scaleFuel_126: -1894434904098944135
+      scaleFuel_127: 4811486655365487367
+      scaleFuel_128: -2190362369117519365
+      scaleFuel_129: -6210511764843571255
+      scaleFuel_13: -7268213681483452486
+      scaleFuel_130: -3239805848039516011
+      scaleFuel_131: 4719608600469739364
+      scaleFuel_132: 349705229634187972
+      scaleFuel_133: 1672531372153033111
+      scaleFuel_134: 1511092130960279568
+      scaleFuel_135: -1318880685156763185
+      scaleFuel_136: -6217809816096542137
+      scaleFuel_137: -1974636563656221932
+      scaleFuel_138: -5574204743354094114
+      scaleFuel_139: 7269632535760663580
+      scaleFuel_14: -3006033889178713574
+      scaleFuel_140: 8416006511096941990
+      scaleFuel_141: 2575332866522531402
+      scaleFuel_142: -6228633204106386533
+      scaleFuel_143: 8507975538235295147
+      scaleFuel_144: 2864563841016943432
+      scaleFuel_145: -5436343045794005883
+      scaleFuel_146: -762116343990909257
+      scaleFuel_147: -7650597584036164107
+      scaleFuel_148: 8360396691976779127
+      scaleFuel_149: 1224933037301049119
+      scaleFuel_15: 7204534274358131944
+      scaleFuel_150: -210394500160369208
+      scaleFuel_151: 9102217220152388956
+      scaleFuel_152: 5828834126279141819
+      scaleFuel_153: 5018368514098650498
+      scaleFuel_154: 8064175326351770082
+      scaleFuel_155: -2999944152886265065
+      scaleFuel_156: 6460565811357978836
+      scaleFuel_157: -1546189037640869603
+      scaleFuel_158: -3588589424625250739
+      scaleFuel_159: 4277113826651163529
+      scaleFuel_16: -2451154761094803220
+      scaleFuel_160: 1142898987824777274
+      scaleFuel_161: -1400019377131244213
+      scaleFuel_162: -6729909701613486783
+      scaleFuel_163: -5854753819561166571
+      scaleFuel_164: 4780490115809309276
+      scaleFuel_165: 2426468852948312923
+      scaleFuel_166: -9173041618314790696
+      scaleFuel_167: 7096795668135228748
+      scaleFuel_168: -5561330924179605501
+      scaleFuel_169: -5118818111615198400
+      scaleFuel_17: 905421060756103562
+      scaleFuel_170: 7599529194440193348
+      scaleFuel_171: -8236128113176640691
+      scaleFuel_172: 3866251126669648779
+      scaleFuel_173: -6164335125030306625
+      scaleFuel_174: 7061603657428748813
+      scaleFuel_175: 1628041783276658725
+      scaleFuel_176: -949376395761445742
+      scaleFuel_177: -6653080967791353608
+      scaleFuel_178: 5907250792511028667
+      scaleFuel_179: -210248026124512350
+      scaleFuel_18: -3300191010437951593
+      scaleFuel_180: -5891625015570334720
+      scaleFuel_181: -2530336650716717454
+      scaleFuel_182: -1603484502376640097
+      scaleFuel_183: -3120889816749399575
+      scaleFuel_184: 2589232397356058226
+      scaleFuel_185: -723160738677429516
+      scaleFuel_186: -5152345944220770098
+      scaleFuel_187: 8501966576710360941
+      scaleFuel_188: 7027168349028485401
+      scaleFuel_189: 7975942535177091776
+      scaleFuel_19: 3163147055392782078
+      scaleFuel_190: -2497174935093300967
+      scaleFuel_191: 2199214642914678439
+      scaleFuel_192: -1994719506041619433
+      scaleFuel_193: 3509954058006510200
+      scaleFuel_194: -771485993354717638
+      scaleFuel_195: -984555784649548904
+      scaleFuel_196: -67022227665190697
+      scaleFuel_197: -1178748672364632442
+      scaleFuel_198: 7886399032011834123
+      scaleFuel_199: -2988118101717918596
+      scaleFuel_2: 8762360766801052942
+      scaleFuel_20: -865628497140484679
+      scaleFuel_200: -1439281997046431974
+      scaleFuel_201: 1069244288675360735
+      scaleFuel_202: -8894043821111063562
+      scaleFuel_203: -1773113492584974023
+      scaleFuel_204: 2569488748584360900
+      scaleFuel_205: 7556181624847789688
+      scaleFuel_206: 8819511839026868339
+      scaleFuel_207: -3141730242511104508
+      scaleFuel_208: 2410567897804598068
+      scaleFuel_209: -5713052413567718957
+      scaleFuel_21: -3732939407298349991
+      scaleFuel_210: -5047056958347491589
+      scaleFuel_211: 3763582469766304871
+      scaleFuel_212: -1378113463280162700
+      scaleFuel_213: -2188372088117095572
+      scaleFuel_214: 6933663960357907187
+      scaleFuel_215: 2554306008995743177
+      scaleFuel_216: 5092700641436550903
+      scaleFuel_217: -1004720659062239581
+      scaleFuel_218: -4404621675880356357
+      scaleFuel_219: -3277327994092292068
+      scaleFuel_22: 1445181873621167573
+      scaleFuel_220: 2922044557399934962
+      scaleFuel_221: -7161629414175553062
+      scaleFuel_222: -8996764454865827567
+      scaleFuel_223: 8457612410330720994
+      scaleFuel_224: -5078958718664856584
+      scaleFuel_225: -4234815316234666913
+      scaleFuel_226: 9139403142907309238
+      scaleFuel_227: 2194261421289460972
+      scaleFuel_228: -8514090603817468599
+      scaleFuel_229: -5178305564085479039
+      scaleFuel_23: -3607763333570204887
+      scaleFuel_230: -3786696954854586878
+      scaleFuel_231: 7735203176006263762
+      scaleFuel_232: -4549742878633402612
+      scaleFuel_233: -1607863053039877140
+      scaleFuel_234: 8546012107643641219
+      scaleFuel_235: 796100931133804329
+      scaleFuel_236: 6310869750199627697
+      scaleFuel_237: -4593232336599279834
+      scaleFuel_238: 5853106591242142728
+      scaleFuel_239: 8458715822247077250
+      scaleFuel_24: 7148714514812312237
+      scaleFuel_240: 7037732847813052699
+      scaleFuel_241: -4664880329061096258
+      scaleFuel_242: -6936495899827185056
+      scaleFuel_243: 2687795320638281107
+      scaleFuel_244: 5643333117601019165
+      scaleFuel_245: -6922010884366476908
+      scaleFuel_246: -5878439823113952457
+      scaleFuel_247: -1922640728337385456
+      scaleFuel_248: 228514801125305373
+      scaleFuel_249: 6254957516332830624
+      scaleFuel_25: 1197604742053126220
+      scaleFuel_26: -3613691103162912401
+      scaleFuel_27: 1010528701230069523
+      scaleFuel_28: -6260238911755458261
+      scaleFuel_29: -1788475609603731723
+      scaleFuel_3: 693743130155061511
+      scaleFuel_30: -6474465110839566683
+      scaleFuel_31: 6187336053655190623
+      scaleFuel_32: -2806885597397332221
+      scaleFuel_33: -3106522262843144620
+      scaleFuel_34: -3610208073571511542
+      scaleFuel_35: -1031634686379355407
+      scaleFuel_36: 4047079836436225707
+      scaleFuel_37: -5808942169505579212
+      scaleFuel_38: -7328401705814711910
+      scaleFuel_39: -7872640010797542568
+      scaleFuel_4: -1590621886067748153
+      scaleFuel_40: 8513116765791571316
+      scaleFuel_41: 7551871861480009157
+      scaleFuel_42: 580485342173030104
+      scaleFuel_43: -2093583116754516263
+      scaleFuel_44: 5541851848099012836
+      scaleFuel_45: 1434119919598334849
+      scaleFuel_46: 408749479454958584
+      scaleFuel_47: 3923165979367447425
+      scaleFuel_48: -3422845708491454207
+      scaleFuel_49: 1672694406077062419
+      scaleFuel_5: -1006080166684962884
+      scaleFuel_50: 6330392495708726895
+      scaleFuel_51: 4997849451900579536
+      scaleFuel_52: 5593765409826613709
+      scaleFuel_53: 7674250251602377452
+      scaleFuel_54: -855335060388881338
+      scaleFuel_55: 8693435896339473925
+      scaleFuel_56: -1504642251387098967
+      scaleFuel_57: -7355689979050683406
+      scaleFuel_58: 8072690669655132289
+      scaleFuel_59: -2965068184150539800
+      scaleFuel_6: -6339024885030752983
+      scaleFuel_60: 7253534951609436264
+      scaleFuel_61: 5177153335503450264
+      scaleFuel_62: -8918960090301546876
+      scaleFuel_63: 95904863397923608
+      scaleFuel_64: -3221159601249748456
+      scaleFuel_65: -4620480456138638796
+      scaleFuel_66: -5704382144768533867
+      scaleFuel_67: 7520442118228306090
+      scaleFuel_68: 7834070533633963361
+      scaleFuel_69: -8561839163781837375
+      scaleFuel_7: 1437984083958338376
+      scaleFuel_70: -6061511017153054555
+      scaleFuel_71: 5783229939511903642
+      scaleFuel_72: -1750571872250503298
+      scaleFuel_73: -849332597163271428
+      scaleFuel_74: -6055770474853271651
+      scaleFuel_75: -7737009783378712862
+      scaleFuel_76: -3618343793771203218
+      scaleFuel_77: 5240883470860216831
+      scaleFuel_78: 4341551730773260692
+      scaleFuel_79: 4282099708734682438
+      scaleFuel_8: -8951667017880741647
+      scaleFuel_80: 1917002269123519032
+      scaleFuel_81: 2540724618674462947
+      scaleFuel_82: 8147712576313310755
+      scaleFuel_83: -7324116900390356505
+      scaleFuel_84: -3189700400081738389
+      scaleFuel_85: -7523289671797842864
+      scaleFuel_86: 1318691220990984715
+      scaleFuel_87: 1454373577642633835
+      scaleFuel_88: 7860579017696263981
+      scaleFuel_89: 4907224793444596440
+      scaleFuel_9: 5358142624507214843
+      scaleFuel_90: 216272065573085917
+      scaleFuel_91: -6202094967635212343
+      scaleFuel_92: -1278424933049655470
+      scaleFuel_93: 6086108375645781072
+      scaleFuel_94: -6502416105362364567
+      scaleFuel_95: -7896747651167461901
+      scaleFuel_96: 1945915821986996879
+      scaleFuel_97: 7188673974479309218
+      scaleFuel_98: 1957730736021383844
+      scaleFuel_99: -6211980577810425898
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

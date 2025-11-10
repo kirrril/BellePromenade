@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 3637b696a0f21364ebffc64374b53dd1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 719359652828978493
+    second: FuelOff_0
+  - first:
+      213: -626110646443520683
+    second: FuelOff_1
+  - first:
+      213: 8255741972615562946
+    second: FuelOff_2
+  - first:
+      213: -4557205384153651464
+    second: FuelOff_3
+  - first:
+      213: -1672395137707869580
+    second: FuelOff_4
+  - first:
+      213: 2363550357613879685
+    second: FuelOff_5
+  - first:
+      213: -3758749822781137964
+    second: FuelOff_6
+  - first:
+      213: 1649462229784556735
+    second: FuelOff_7
+  - first:
+      213: 309965150726973022
+    second: FuelOff_8
+  - first:
+      213: 7530383865137148216
+    second: FuelOff_9
+  - first:
+      213: -3401772733200697877
+    second: FuelOff_10
+  - first:
+      213: 7900259912522009476
+    second: FuelOff_11
+  - first:
+      213: -7791051990529952114
+    second: FuelOff_12
+  - first:
+      213: 8266798362973104614
+    second: FuelOff_13
+  - first:
+      213: 2682424948993863576
+    second: FuelOff_14
+  - first:
+      213: 1836967861830421769
+    second: FuelOff_15
+  - first:
+      213: 7958063964461296899
+    second: FuelOff_16
+  - first:
+      213: 8665332835557904929
+    second: FuelOff_17
+  - first:
+      213: -3680720848957469066
+    second: FuelOff_18
+  - first:
+      213: 5224397913664651067
+    second: FuelOff_19
+  - first:
+      213: 4722577044147722166
+    second: FuelOff_20
+  - first:
+      213: -9109988374821994710
+    second: FuelOff_21
+  - first:
+      213: -1813701843170982867
+    second: FuelOff_22
+  - first:
+      213: 5590513080896243799
+    second: FuelOff_23
+  - first:
+      213: -1311566702269174827
+    second: FuelOff_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FuelOff_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 79
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d9e9cfacdabf900800000000000000
+      internalID: 719359652828978493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelOff_1
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 44
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55dc4a03fab9f47f0800000000000000
+      internalID: -626110646443520683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelOff_2
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 75
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c688035599429270800000000000000
+      internalID: 8255741972615562946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelOff_3
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 44
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6260529dd81c0c0800000000000000
+      internalID: -4557205384153651464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelOff_4
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 44
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47af4d4ab757ac8e0800000000000000
+      internalID: -1672395137707869580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelOff_5
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 75
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581a25217840dc020800000000000000
+      internalID: 2363550357613879685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelOff_6
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 44
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db519d63fc36dbc0800000000000000
+      internalID: -3758749822781137964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelOff_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 4
+        width: 21
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb47bb4a82114e610800000000000000
+      internalID: 1649462229784556735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelOff_8
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 4
+        width: 21
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56e4dd89a73d4400800000000000000
+      internalID: 309965150726973022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelOff_9
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 4
+        width: 21
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83135d74a3c418860800000000000000
+      internalID: 7530383865137148216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelOff_10
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 4
+        width: 21
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be576f6f8b97ac0d0800000000000000
+      internalID: -3401772733200697877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelOff_11
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 4
+        width: 21
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b0227788c53ad60800000000000000
+      internalID: 7900259912522009476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelOff_12
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 4
+        width: 21
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86bcdd4e7f90e390800000000000000
+      internalID: -7791051990529952114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelOff_13
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 4
+        width: 21
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9eacecf4199b270800000000000000
+      internalID: 8266798362973104614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelOff_14
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 4
+        width: 21
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fac6d6743e93520800000000000000
+      internalID: 2682424948993863576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelOff_15
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 4
+        width: 21
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d0634a9883e7910800000000000000
+      internalID: 1836967861830421769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelOff_16
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 4
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d6d851309b07e60800000000000000
+      internalID: 7958063964461296899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelOff_17
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 6
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12215f39d42714870800000000000000
+      internalID: 8665332835557904929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelOff_18
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 37
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e0480a3e37becc0800000000000000
+      internalID: -3680720848957469066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelOff_19
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 6
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ff541f83ac08840800000000000000
+      internalID: 5224397913664651067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelOff_20
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 6
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7d6d4ecc6f98140800000000000000
+      internalID: 4722577044147722166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelOff_21
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 37
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ffbc207d1d29180800000000000000
+      internalID: -9109988374821994710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelOff_22
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 6
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24825578cf64d6e0800000000000000
+      internalID: -1813701843170982867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelOff_23
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 0
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758cefaf60e759d40800000000000000
+      internalID: 5590513080896243799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelOff_24
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 0
+        width: 37
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbe30488016ccde0800000000000000
+      internalID: -1311566702269174827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FuelOff_0: 719359652828978493
+      FuelOff_1: -626110646443520683
+      FuelOff_10: -3401772733200697877
+      FuelOff_11: 7900259912522009476
+      FuelOff_12: -7791051990529952114
+      FuelOff_13: 8266798362973104614
+      FuelOff_14: 2682424948993863576
+      FuelOff_15: 1836967861830421769
+      FuelOff_16: 7958063964461296899
+      FuelOff_17: 8665332835557904929
+      FuelOff_18: -3680720848957469066
+      FuelOff_19: 5224397913664651067
+      FuelOff_2: 8255741972615562946
+      FuelOff_20: 4722577044147722166
+      FuelOff_21: -9109988374821994710
+      FuelOff_22: -1813701843170982867
+      FuelOff_23: 5590513080896243799
+      FuelOff_24: -1311566702269174827
+      FuelOff_3: -4557205384153651464
+      FuelOff_4: -1672395137707869580
+      FuelOff_5: 2363550357613879685
+      FuelOff_6: -3758749822781137964
+      FuelOff_7: 1649462229784556735
+      FuelOff_8: 309965150726973022
+      FuelOff_9: 7530383865137148216
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

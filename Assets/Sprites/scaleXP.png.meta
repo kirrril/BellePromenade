@@ -1,0 +1,829 @@
+fileFormatVersion: 2
+guid: 8a879022afc3bf04e8ba8ba19a2b0c37
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8585219877668561047
+    second: scaleXP_0
+  - first:
+      213: -9182890577241978787
+    second: scaleXP_1
+  - first:
+      213: -1194177851309380784
+    second: scaleXP_2
+  - first:
+      213: -4893525748373083233
+    second: scaleXP_3
+  - first:
+      213: -2966295359639296158
+    second: scaleXP_4
+  - first:
+      213: -1132818595455116611
+    second: scaleXP_5
+  - first:
+      213: 1813493659733286193
+    second: scaleXP_6
+  - first:
+      213: 7879809239855149243
+    second: scaleXP_7
+  - first:
+      213: -3876327045631348523
+    second: scaleXP_8
+  - first:
+      213: -4225347134823324782
+    second: scaleXP_9
+  - first:
+      213: 3222255834973122654
+    second: scaleXP_10
+  - first:
+      213: -1363008030442080130
+    second: scaleXP_11
+  - first:
+      213: -5963366979453186545
+    second: scaleXP_12
+  - first:
+      213: -1391674137087146865
+    second: scaleXP_13
+  - first:
+      213: 5297281719860560490
+    second: scaleXP_14
+  - first:
+      213: 218493523401709496
+    second: scaleXP_15
+  - first:
+      213: 8000155360758019454
+    second: scaleXP_16
+  - first:
+      213: -4007575740992588458
+    second: scaleXP_17
+  - first:
+      213: 2605977462839879371
+    second: scaleXP_18
+  - first:
+      213: 4998129446393226400
+    second: scaleXP_19
+  - first:
+      213: -7670636485369160574
+    second: scaleXP_20
+  - first:
+      213: -1240544273930501535
+    second: scaleXP_21
+  - first:
+      213: -1391053602052521844
+    second: scaleXP_22
+  - first:
+      213: 5806544965057444014
+    second: scaleXP_23
+  - first:
+      213: -2820328016141269266
+    second: scaleXP_24
+  - first:
+      213: -8651555128516126427
+    second: scaleXP_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: scaleXP_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 3255
+        width: 695
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f51f8f10c2bd880800000000000000
+      internalID: -8585219877668561047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleXP_11
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 3255
+        width: 695
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58c53c4ca1df8080800000000000000
+      internalID: -9182890577241978787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleXP_21
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 3255
+        width: 694
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ba01e329d6d6fe0800000000000000
+      internalID: -1194177851309380784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleXP_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 2904
+        width: 695
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9baef44244b61cb0800000000000000
+      internalID: -4893525748373083233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleXP_12
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 2903
+        width: 695
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2676fc5261a95d6d0800000000000000
+      internalID: -2966295359639296158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleXP_22
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 2904
+        width: 694
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbad0f64d7b6740f0800000000000000
+      internalID: -1132818595455116611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleXP_3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 2552
+        width: 695
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d53de00e2da2910800000000000000
+      internalID: 1813493659733286193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleXP_13
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 2552
+        width: 695
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0386f21c4ba5d60800000000000000
+      internalID: 7879809239855149243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleXP_23
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 2552
+        width: 694
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d077e3f615843ac0800000000000000
+      internalID: -3876327045631348523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleXP_4
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 2200
+        width: 694
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2932420fa2d8c55c0800000000000000
+      internalID: -4225347134823324782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleXP_14
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 2200
+        width: 694
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50b0031c90c7bc20800000000000000
+      internalID: 3222255834973122654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleXP_24
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 2196
+        width: 694
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78be77fa6f951de0800000000000000
+      internalID: -1363008030442080130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleXP_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1848
+        width: 694
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e0664d35ddd3da0800000000000000
+      internalID: -5963366979453186545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleXP_15
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1848
+        width: 695
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8482d7eeb7cface0800000000000000
+      internalID: -1391674137087146865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleXP_25
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 1848
+        width: 694
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62857378a9b38940800000000000000
+      internalID: 5297281719860560490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleXP_6
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1496
+        width: 695
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b71510b3be380300800000000000000
+      internalID: 218493523401709496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleXP_16
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1496
+        width: 695
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e753be9f9e2460f60800000000000000
+      internalID: 8000155360758019454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleXP_26
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 1496
+        width: 694
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655f9abb81b3268c0800000000000000
+      internalID: -4007575740992588458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleXP_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1144
+        width: 695
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6ae3502ba4a2420800000000000000
+      internalID: 2605977462839879371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleXP_17
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1144
+        width: 695
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a420b1104cec5540800000000000000
+      internalID: 4998129446393226400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleXP_8
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 793
+        width: 695
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c9b60e1cc6c8590800000000000000
+      internalID: -7670636485369160574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleXP_18
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 792
+        width: 695
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1624a383e83b8cee0800000000000000
+      internalID: -1240544273930501535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleXP_9
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 441
+        width: 695
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80c12a7e1cf1bce0800000000000000
+      internalID: -1391053602052521844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleXP_19
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 441
+        width: 695
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8f49e91edf49050800000000000000
+      internalID: 5806544965057444014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleXP_10
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 89
+        width: 694
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee641dfac9e2cd8d0800000000000000
+      internalID: -2820328016141269266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleXP_20
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 89
+        width: 694
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5295612d2708fe780800000000000000
+      internalID: -8651555128516126427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaleXP_0
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 1101
+        width: 694
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a6646942413e640a66ba7a06910492
+      internalID: -826314563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e71fb242a2070914e86bd9d51a43e2d5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      scaleXP_0: -826314563
+      scaleXP_1: -8585219877668561047
+      scaleXP_10: -2820328016141269266
+      scaleXP_11: -9182890577241978787
+      scaleXP_12: -2966295359639296158
+      scaleXP_13: 7879809239855149243
+      scaleXP_14: 3222255834973122654
+      scaleXP_15: -1391674137087146865
+      scaleXP_16: 8000155360758019454
+      scaleXP_17: 4998129446393226400
+      scaleXP_18: -1240544273930501535
+      scaleXP_19: 5806544965057444014
+      scaleXP_2: -4893525748373083233
+      scaleXP_20: -8651555128516126427
+      scaleXP_21: -1194177851309380784
+      scaleXP_22: -1132818595455116611
+      scaleXP_23: -3876327045631348523
+      scaleXP_24: -1363008030442080130
+      scaleXP_25: 5297281719860560490
+      scaleXP_26: -4007575740992588458
+      scaleXP_3: 1813493659733286193
+      scaleXP_4: -4225347134823324782
+      scaleXP_5: -5963366979453186545
+      scaleXP_6: 218493523401709496
+      scaleXP_7: 2605977462839879371
+      scaleXP_8: -7670636485369160574
+      scaleXP_9: -1391053602052521844
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

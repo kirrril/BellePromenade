@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/EntryScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/GameScene.unity
+    guid: ac3ee05dfe0a02143bd94313db8d9eab
+  - enabled: 1
+    path: Assets/Scenes/YouWinScene.unity
+    guid: 4d9930104ab8db148b9a44e2b0727fc0
+  - enabled: 1
+    path: Assets/Scenes/YouLoseScene.unity
+    guid: 207e3d06e2d813a489c86a0207829d02
+  - enabled: 1
+    path: Assets/Scenes/CloudSaveScene.unity
+    guid: 892588a883b165041943e76abdf22d46
+  - enabled: 1
+    path: Assets/Scenes/AllWinScene.unity
+    guid: 6412fe355b1735d489df622d77277ec8
+  m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: 1890f763997e43941981a4d48b8d1d9a, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 17d876bf8439eea4ca64ed1314cced5c, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 85c58962607ccdd4ba58979eaca1b4ff, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0

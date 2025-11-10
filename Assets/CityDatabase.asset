@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4fe4ba5ddd103e45961b84216531392, type: 3}
+  m_Name: CityDatabase
+  m_EditorClassIdentifier: 
+  cities:
+  - cityName: Paris
+    cityImage: {fileID: 2800000, guid: 97ac691672e00914381e2101842dda53, type: 3}
+    alreadyVisited: 0
+  - cityName: Marseille
+    cityImage: {fileID: 2800000, guid: 3228d1526088ba94eb0e1a02fa5cc537, type: 3}
+    alreadyVisited: 0
+  - cityName: Lyon
+    cityImage: {fileID: 2800000, guid: 9c1f09129fbe4e849abffe4612c27071, type: 3}
+    alreadyVisited: 0
+  - cityName: Bordeaux
+    cityImage: {fileID: 2800000, guid: a4ab62ecb18d83d4ba647614a3a0268f, type: 3}
+    alreadyVisited: 0
+  - cityName: Montpellier
+    cityImage: {fileID: 2800000, guid: 7454a9ce3d9a6a840a72a1b81159e6af, type: 3}
+    alreadyVisited: 0
+  - cityName: Nice
+    cityImage: {fileID: 2800000, guid: bf6a123664eaf0846ac21527f71219fb, type: 3}
+    alreadyVisited: 0
+  - cityName: Toulouse
+    cityImage: {fileID: 2800000, guid: 2e8f3f64e37b3f84493d3123cf5c17b6, type: 3}
+    alreadyVisited: 0
+  - cityName: Limoges
+    cityImage: {fileID: 2800000, guid: c700e1e61b0bcfc4f84fd9fa66677047, type: 3}
+    alreadyVisited: 0
+  - cityName: Caen
+    cityImage: {fileID: 2800000, guid: 74b64eda5c2b53446b3f558d2a7cd16d, type: 3}
+    alreadyVisited: 0
+  - cityName: Carcassonne
+    cityImage: {fileID: 2800000, guid: a0861ec84b7e0a34cb7b392d915d1a86, type: 3}
+    alreadyVisited: 0
+  - cityName: Nullepart
+    cityImage: {fileID: 2800000, guid: 024aa067ff83c8449a59bbeff431a0e8, type: 3}
+    alreadyVisited: 0

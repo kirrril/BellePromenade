@@ -1,0 +1,1 @@
+C:\Users\Admin\Documents\Projet Unity\Vesoul\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\524c17d2\obj\arm64-v8a

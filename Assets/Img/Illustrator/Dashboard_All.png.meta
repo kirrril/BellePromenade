@@ -1,0 +1,1014 @@
+fileFormatVersion: 2
+guid: cc23f4c141086074dae710af9e19eba4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9109570955467845125
+    second: Dashboard_All_0
+  - first:
+      213: 3867495377750240973
+    second: Dashboard_All_1
+  - first:
+      213: 5562454441318470494
+    second: Dashboard_All_2
+  - first:
+      213: 4010192405732148847
+    second: Dashboard_All_3
+  - first:
+      213: 702040062058438549
+    second: Dashboard_All_4
+  - first:
+      213: -3993830155641563473
+    second: Dashboard_All_5
+  - first:
+      213: -9050995886478156006
+    second: Dashboard_All_6
+  - first:
+      213: 6438924082525024599
+    second: Dashboard_All_7
+  - first:
+      213: -5850385246189517201
+    second: Dashboard_All_8
+  - first:
+      213: 645709511839383382
+    second: Dashboard_All_9
+  - first:
+      213: 5272687286044709628
+    second: Dashboard_All_10
+  - first:
+      213: 763095677743743093
+    second: Dashboard_All_11
+  - first:
+      213: -1071411431145507927
+    second: Dashboard_All_12
+  - first:
+      213: -198569787234750426
+    second: Dashboard_All_13
+  - first:
+      213: 3999568664108937254
+    second: Dashboard_All_14
+  - first:
+      213: -6295775660424636782
+    second: Dashboard_All_15
+  - first:
+      213: 41064683099809319
+    second: Dashboard_All_16
+  - first:
+      213: 4120031227004756476
+    second: Dashboard_All_17
+  - first:
+      213: -2664279339337268407
+    second: Dashboard_All_18
+  - first:
+      213: -8254502789099454941
+    second: Dashboard_All_19
+  - first:
+      213: 97762280708833783
+    second: Dashboard_All_20
+  - first:
+      213: -7716119761034616307
+    second: Dashboard_All_21
+  - first:
+      213: 8044758846534472112
+    second: Dashboard_All_22
+  - first:
+      213: -9150680483223325604
+    second: Dashboard_All_23
+  - first:
+      213: -871556853899740842
+    second: Dashboard_All_24
+  - first:
+      213: -1020260432877180834
+    second: Dashboard_All_25
+  - first:
+      213: 5599185230792340183
+    second: Dashboard_All_26
+  - first:
+      213: 7198223433854407225
+    second: Dashboard_All_27
+  - first:
+      213: 690046966800763587
+    second: Dashboard_All_28
+  - first:
+      213: 6524732282985738569
+    second: Dashboard_All_29
+  - first:
+      213: -4261196485733639818
+    second: Dashboard_All_30
+  - first:
+      213: 2943220197494712210
+    second: Dashboard_All_31
+  - first:
+      213: -5159082096233897775
+    second: Dashboard_All_32
+  - first:
+      213: 7137042132349984969
+    second: Dashboard_All_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dashboard_All_0
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 2038
+        width: 892
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e60e8f482bb6e70800000000000000
+      internalID: 9109570955467845125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dashboard_All_1
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 1718
+        width: 1061
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcea4412e8a1ca530800000000000000
+      internalID: 3867495377750240973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dashboard_All_2
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 2501
+        width: 89
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53d41ed7dec13d40800000000000000
+      internalID: 5562454441318470494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dashboard_All_3
+      rect:
+        serializedVersion: 2
+        x: 3131
+        y: 2501
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6642a00fb017a730800000000000000
+      internalID: 4010192405732148847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dashboard_All_4
+      rect:
+        serializedVersion: 2
+        x: 3267
+        y: 2501
+        width: 89
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f161587b52eb900800000000000000
+      internalID: 702040062058438549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dashboard_All_5
+      rect:
+        serializedVersion: 2
+        x: 3472
+        y: 2482
+        width: 60
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6ddb732a01398c0800000000000000
+      internalID: -3993830155641563473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dashboard_All_6
+      rect:
+        serializedVersion: 2
+        x: 3533
+        y: 2482
+        width: 59
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f92fa0237646280800000000000000
+      internalID: -9050995886478156006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dashboard_All_7
+      rect:
+        serializedVersion: 2
+        x: 3628
+        y: 2490
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751bc929657ab5950800000000000000
+      internalID: 6438924082525024599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dashboard_All_8
+      rect:
+        serializedVersion: 2
+        x: 3688
+        y: 2482
+        width: 60
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6600b18d914fcea0800000000000000
+      internalID: -5850385246189517201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dashboard_All_9
+      rect:
+        serializedVersion: 2
+        x: 3784
+        y: 2490
+        width: 59
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ff641416506f800800000000000000
+      internalID: 645709511839383382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dashboard_All_10
+      rect:
+        serializedVersion: 2
+        x: 3844
+        y: 2482
+        width: 60
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2d96896295c2940800000000000000
+      internalID: 5272687286044709628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dashboard_All_11
+      rect:
+        serializedVersion: 2
+        x: 3947
+        y: 2482
+        width: 52
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5704d81d97f079a00800000000000000
+      internalID: 763095677743743093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dashboard_All_12
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2482
+        width: 59
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3774edaf49121f0800000000000000
+      internalID: -1071411431145507927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dashboard_All_13
+      rect:
+        serializedVersion: 2
+        x: 4103
+        y: 2482
+        width: 52
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6207fb0a4d98e3df0800000000000000
+      internalID: -198569787234750426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dashboard_All_14
+      rect:
+        serializedVersion: 2
+        x: 4155
+        y: 2482
+        width: 60
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6203ff66282518730800000000000000
+      internalID: 3999568664108937254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dashboard_All_15
+      rect:
+        serializedVersion: 2
+        x: 4251
+        y: 2482
+        width: 59
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296d6dea469e0a8a0800000000000000
+      internalID: -6295775660424636782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dashboard_All_16
+      rect:
+        serializedVersion: 2
+        x: 4311
+        y: 2482
+        width: 60
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7266af89c14e19000800000000000000
+      internalID: 41064683099809319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dashboard_All_17
+      rect:
+        serializedVersion: 2
+        x: 4406
+        y: 2482
+        width: 60
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1a225729a4d2930800000000000000
+      internalID: 4120031227004756476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dashboard_All_18
+      rect:
+        serializedVersion: 2
+        x: 4467
+        y: 2482
+        width: 59
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943c36c8e04960bd0800000000000000
+      internalID: -2664279339337268407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dashboard_All_19
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 2490
+        width: 22
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e7142927d127d80800000000000000
+      internalID: -8254502789099454941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dashboard_All_20
+      rect:
+        serializedVersion: 2
+        x: 4622
+        y: 2482
+        width: 60
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1051eb6425b5100800000000000000
+      internalID: 97762280708833783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dashboard_All_21
+      rect:
+        serializedVersion: 2
+        x: 4755
+        y: 2490
+        width: 22
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02e82785f5dae490800000000000000
+      internalID: -7716119761034616307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dashboard_All_22
+      rect:
+        serializedVersion: 2
+        x: 4778
+        y: 2482
+        width: 60
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b15e574c89b4af60800000000000000
+      internalID: 8044758846534472112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dashboard_All_23
+      rect:
+        serializedVersion: 2
+        x: 4934
+        y: 2482
+        width: 59
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54bf583590420180800000000000000
+      internalID: -9150680483223325604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dashboard_All_24
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1350
+        width: 726
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659bfb9b8ab97e3f0800000000000000
+      internalID: -871556853899740842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dashboard_All_25
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 723
+        width: 1770
+        height: 934
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5828f7ba8e47d1f0800000000000000
+      internalID: -1020260432877180834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dashboard_All_26
+      rect:
+        serializedVersion: 2
+        x: 4156
+        y: 1499
+        width: 1175
+        height: 779
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2bdf83d4d44bd40800000000000000
+      internalID: 5599185230792340183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dashboard_All_27
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1108
+        width: 364
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932d8c4431a35e360800000000000000
+      internalID: 7198223433854407225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dashboard_All_28
+      rect:
+        serializedVersion: 2
+        x: 5070
+        y: 723
+        width: 378
+        height: 545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cace7e6f0a839900800000000000000
+      internalID: 690046966800763587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dashboard_All_29
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 877
+        width: 368
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94173ed11718c8a50800000000000000
+      internalID: 6524732282985738569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dashboard_All_30
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 902
+        width: 751
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67914bd7f503dd4c0800000000000000
+      internalID: -4261196485733639818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dashboard_All_31
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 626
+        width: 91
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2976d6ffc2b68d820800000000000000
+      internalID: 2943220197494712210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dashboard_All_32
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 631
+        width: 98
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0a6eeda224768b0800000000000000
+      internalID: -5159082096233897775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dashboard_All_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 5612
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0a7b5710edb0360800000000000000
+      internalID: 7137042132349984969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dashboard_All_0: 9109570955467845125
+      Dashboard_All_1: 3867495377750240973
+      Dashboard_All_10: 5272687286044709628
+      Dashboard_All_11: 763095677743743093
+      Dashboard_All_12: -1071411431145507927
+      Dashboard_All_13: -198569787234750426
+      Dashboard_All_14: 3999568664108937254
+      Dashboard_All_15: -6295775660424636782
+      Dashboard_All_16: 41064683099809319
+      Dashboard_All_17: 4120031227004756476
+      Dashboard_All_18: -2664279339337268407
+      Dashboard_All_19: -8254502789099454941
+      Dashboard_All_2: 5562454441318470494
+      Dashboard_All_20: 97762280708833783
+      Dashboard_All_21: -7716119761034616307
+      Dashboard_All_22: 8044758846534472112
+      Dashboard_All_23: -9150680483223325604
+      Dashboard_All_24: -871556853899740842
+      Dashboard_All_25: -1020260432877180834
+      Dashboard_All_26: 5599185230792340183
+      Dashboard_All_27: 7198223433854407225
+      Dashboard_All_28: 690046966800763587
+      Dashboard_All_29: 6524732282985738569
+      Dashboard_All_3: 4010192405732148847
+      Dashboard_All_30: -4261196485733639818
+      Dashboard_All_31: 2943220197494712210
+      Dashboard_All_32: -5159082096233897775
+      Dashboard_All_33: 7137042132349984969
+      Dashboard_All_4: 702040062058438549
+      Dashboard_All_5: -3993830155641563473
+      Dashboard_All_6: -9050995886478156006
+      Dashboard_All_7: 6438924082525024599
+      Dashboard_All_8: -5850385246189517201
+      Dashboard_All_9: 645709511839383382
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
